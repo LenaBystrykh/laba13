@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab10for12.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab12.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab10for12.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab10for12.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab12.pdb
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\bin\Debug\Lab12.exe.config
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\obj\Debug\Lab13.csproj.CopyComplete
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\Acer\OneDrive\OneDrive - НИУ Высшая школа экономики\прога любимая\Lab13\Lab13\obj\Debug\Lab13.pdb
